@@ -8,7 +8,7 @@ I am currently a Master's Student in MSc Geographic Data Science, at the Departm
 Y.Chen363@lse.ac.uk
 
 #### Education
-MSc, Geographic Data Science, London School of Economics and Politica Science (LSE), London, England, 2024—2025 (expected).\
+MSc, Geographic Data Science, London School of Economics and Political Science (LSE), London, England, 2024—2025 (expected).\
 BSc, Geographical Information Science, Sun Yat-sen University, Guangzhou, China, 2020—2024.
 
 #### Research Interests
