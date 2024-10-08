@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Yuanpeng Chen](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/LSE-Assignments-2425)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+Y.Chen363[at]lse.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+MSc, Geographic Data Science, London School of Economics and Politica Science (LSE), England, 2024—2025 (expected).\
+BSc, Geographical Information Science, Sun Yat-sen University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Spatial Analysis, Applied Social Science, Data Science.
 
